@@ -306,7 +306,7 @@ footer .media-icons a:hover {
   }
 
   .home{
-    align-content: space-evenly;
+    /* align-content: space-evenly; */
   }
 
   section{
@@ -351,9 +351,9 @@ footer .media-icons a:hover {
   }
 
 
-  .home .content{
+  /* .home .content{
     margin-top: 50px;
-  }
+  } */
 
   .home .content .title{
     font-size: 4rem;
@@ -375,7 +375,7 @@ footer .media-icons a:hover {
  }
 
   .home .content{
-    padding-bottom: 1.5rem;
+    padding-top: 2.5rem;
   }
 
   .home .image{
@@ -385,6 +385,7 @@ footer .media-icons a:hover {
     justify-content: center;
     border: #2a201c;
     border-radius: 10px;
+    margin-bottom: 30px;
   }
 }
   
